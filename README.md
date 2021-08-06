@@ -5,7 +5,7 @@ Submitted to: Xhacks 2021
 ***
 
 Created using: 
-\ 
+</br>
 -> Flutter \
 -> Dart \
 -> Android Studio 
