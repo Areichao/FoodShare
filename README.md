@@ -1,5 +1,6 @@
 # FoodShare
-Make sure no food is wasted at your local restaurant \ 
+Make sure no food is wasted at your local restaurant 
+</br>
 Submitted to: Xhacks 2021  
 
 ***
