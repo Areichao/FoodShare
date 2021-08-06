@@ -4,7 +4,8 @@ Submitted to: Xhacks 2021
 
 ***
 
-Created using: \ 
+Created using: 
+\ 
 -> Flutter \
 -> Dart \
 -> Android Studio 
