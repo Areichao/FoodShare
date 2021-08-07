@@ -17,7 +17,7 @@ Created using:
 | Name | Github | Other links |
 | ---- | ------ | ----------- | 
 | Aayush Shrestha | https://github.com/Hawtori | https://www.linkedin.com/in/aayushshrestha161/ |
-| Prarthona Paul  | https://github.com/PrarthonaPaul |  |
+| Prarthona Paul  | https://github.com/PrarthonaPaul | https://www.linkedin.com/in/prarthona-paul-bb600a187/ |
 | Annabel Chao | https://github.com/Areichao | https://www.linkedin.com/in/annabel-chao/ | 
 | Johnny Ling | https://github.com/Reszonance | |
 
